@@ -1,6 +1,6 @@
 # esh2016-statistics
 
-Aggregates data from `ESH2016` and outputs to:
+Aggregates data from [`ESH2016`](http://eastswedenhack.se/) and outputs to:
 
 * `data/kwh.json` time series of total energy consumption for all teams
 * `data/w.json` time series of momentary energy for all teams
