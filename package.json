@@ -1,0 +1,22 @@
+{
+  "name": "esh2016-statistics",
+  "version": "0.0.0",
+  "description": "Statistics from ESH2016",
+  "main": "index.js",
+  "scripts": {
+    "dev": "DEBUG=statistics* nodemon index.js",
+    "test": "standard"
+  },
+  "keywords": [],
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.10.2",
+    "standard": "^8.0.0"
+  },
+  "dependencies": {
+    "clone": "^1.0.2",
+    "level": "^1.4.0",
+    "subleveldown": "^2.1.0"
+  }
+}
