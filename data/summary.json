@@ -1,106 +1,106 @@
 {
   "totals": {
-    "all": "10.273 kWh",
+    "all": "49.08700000000001 kWh",
     "teams": [
       {
-        "name": "TEAM 11",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 20 *",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 12",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 1",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 13",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 3",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 14",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 5",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 15",
-        "value": "0 kWh",
-        "perc": "0 %"
+        "name": "TEAM 19",
+        "value": "0.445 kWh",
+        "perc": "0.91 %"
       },
       {
         "name": "TEAM 7",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 9",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 19",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 18",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 17",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 10",
-        "value": "0 kWh",
-        "perc": "0 %"
+        "value": "0.799 kWh",
+        "perc": "1.63 %"
       },
       {
         "name": "TEAM 8",
-        "value": "0 kWh",
-        "perc": "0 %"
+        "value": "1.115 kWh",
+        "perc": "2.27 %"
+      },
+      {
+        "name": "TEAM 9",
+        "value": "1.262 kWh",
+        "perc": "2.57 %"
+      },
+      {
+        "name": "TEAM 20 *",
+        "value": "1.465 kWh",
+        "perc": "2.98 %"
+      },
+      {
+        "name": "TEAM 1",
+        "value": "1.5030000000000001 kWh",
+        "perc": "3.06 %"
+      },
+      {
+        "name": "TEAM 3",
+        "value": "1.571 kWh",
+        "perc": "3.2 %"
+      },
+      {
+        "name": "TEAM 17",
+        "value": "1.6420000000000001 kWh",
+        "perc": "3.35 %"
+      },
+      {
+        "name": "TEAM 10",
+        "value": "1.705 kWh",
+        "perc": "3.47 %"
+      },
+      {
+        "name": "TEAM 18",
+        "value": "1.941 kWh",
+        "perc": "3.95 %"
+      },
+      {
+        "name": "TEAM 5",
+        "value": "2.118 kWh",
+        "perc": "4.31 %"
       },
       {
         "name": "TEAM 6",
-        "value": "0 kWh",
-        "perc": "0 %"
+        "value": "2.378 kWh",
+        "perc": "4.84 %"
+      },
+      {
+        "name": "TEAM 12",
+        "value": "2.724 kWh",
+        "perc": "5.55 %"
       },
       {
         "name": "TEAM 4",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 2",
-        "value": "0 kWh",
-        "perc": "0 %"
+        "value": "3.027 kWh",
+        "perc": "6.17 %"
       },
       {
         "name": "TEAM 16",
-        "value": "10.273 kWh",
-        "perc": "100 %"
+        "value": "3.1910000000000003 kWh",
+        "perc": "6.5 %"
+      },
+      {
+        "name": "TEAM 11",
+        "value": "3.383 kWh",
+        "perc": "6.89 %"
+      },
+      {
+        "name": "TEAM 13",
+        "value": "3.571 kWh",
+        "perc": "7.27 %"
+      },
+      {
+        "name": "TEAM 14",
+        "value": "3.6910000000000003 kWh",
+        "perc": "7.52 %"
+      },
+      {
+        "name": "TEAM 2",
+        "value": "4.586 kWh",
+        "perc": "9.34 %"
+      },
+      {
+        "name": "TEAM 15",
+        "value": "6.97 kWh",
+        "perc": "14.2 %"
       }
     ]
   },

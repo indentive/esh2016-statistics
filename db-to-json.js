@@ -14,15 +14,15 @@ db.once('open', () => {
   const kWh = sub(db, 'kWhTS', { valueEncoding: 'json' })
   const W = sub(db, 'WTS', { valueEncoding: 'json' })
 
-  gatherData(kWh, (err, data) => {
+  gatherData(kWh, (err, kwhData) => {
     if (err) throw err
-    fs.writeFileSync('data/kwh.json', JSON.stringify(data, null, 2))
-    gatherData(W, (err, data) => {
+    fs.writeFileSync('data/kwh.json', JSON.stringify(kwhData, null, 2))
+    gatherData(W, (err, wData) => {
       if (err) throw err
-      fs.writeFileSync('data/w.json', JSON.stringify(data, null, 2))
+      fs.writeFileSync('data/w.json', JSON.stringify(wData, null, 2))
       const summary = {
-        totals: totalsSummary(data),
-        momentary: momentarySummary(data)
+        totals: totalsSummary(kwhData),
+        momentary: momentarySummary(wData)
       }
       fs.writeFileSync('data/summary.json', JSON.stringify(summary, null, 2))
     })
@@ -30,6 +30,7 @@ db.once('open', () => {
 })
 
 function totalsSummary (nodes) {
+  console.log(JSON.stringify(nodes, null, 2))
   const total = nodes.map((node) => {
     return node.y[node.y.length - 1]
   }).reduce((curr, prev) => {
