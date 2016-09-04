@@ -1,6 +1,6 @@
 {
   "name": "esh2016-statistics",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Statistics from ESH2016",
   "main": "index.js",
   "scripts": {
