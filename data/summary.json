@@ -1,6 +1,6 @@
 {
   "totals": {
-    "all": "61.766 kWh",
+    "all": "10.273 kWh",
     "teams": [
       {
         "name": "TEAM 11",
@@ -23,12 +23,12 @@
         "perc": "0 %"
       },
       {
-        "name": "TEAM 3",
+        "name": "TEAM 13",
         "value": "0 kWh",
         "perc": "0 %"
       },
       {
-        "name": "TEAM 5",
+        "name": "TEAM 3",
         "value": "0 kWh",
         "perc": "0 %"
       },
@@ -38,7 +38,27 @@
         "perc": "0 %"
       },
       {
+        "name": "TEAM 5",
+        "value": "0 kWh",
+        "perc": "0 %"
+      },
+      {
+        "name": "TEAM 15",
+        "value": "0 kWh",
+        "perc": "0 %"
+      },
+      {
         "name": "TEAM 7",
+        "value": "0 kWh",
+        "perc": "0 %"
+      },
+      {
+        "name": "TEAM 9",
+        "value": "0 kWh",
+        "perc": "0 %"
+      },
+      {
+        "name": "TEAM 19",
         "value": "0 kWh",
         "perc": "0 %"
       },
@@ -49,11 +69,6 @@
       },
       {
         "name": "TEAM 17",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 16",
         "value": "0 kWh",
         "perc": "0 %"
       },
@@ -73,46 +88,31 @@
         "perc": "0 %"
       },
       {
-        "name": "TEAM 19",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
-        "name": "TEAM 9",
-        "value": "0 kWh",
-        "perc": "0 %"
-      },
-      {
         "name": "TEAM 4",
-        "value": "1.332 kWh",
-        "perc": "2.16 %"
-      },
-      {
-        "name": "TEAM 15",
-        "value": "25.546 kWh",
-        "perc": "41.36 %"
-      },
-      {
-        "name": "TEAM 13",
-        "value": "3.422 kWh",
-        "perc": "5.54 %"
+        "value": "0 kWh",
+        "perc": "0 %"
       },
       {
         "name": "TEAM 2",
-        "value": "31.466 kWh",
-        "perc": "50.94 %"
+        "value": "0 kWh",
+        "perc": "0 %"
+      },
+      {
+        "name": "TEAM 16",
+        "value": "10.273 kWh",
+        "perc": "100 %"
       }
     ]
   },
   "momentary": {
     "max": [
       {
-        "name": "TEAM 1",
-        "value": "101.053 W"
-      },
-      {
         "name": "TEAM 7",
         "value": "112.267 W"
+      },
+      {
+        "name": "TEAM 1",
+        "value": "129.867 W"
       },
       {
         "name": "TEAM 20 *",
@@ -155,16 +155,12 @@
         "value": "235.704 W"
       },
       {
-        "name": "TEAM 11",
-        "value": "241.853 W"
-      },
-      {
         "name": "TEAM 3",
         "value": "257.57800000000003 W"
       },
       {
         "name": "TEAM 4",
-        "value": "258.848 W"
+        "value": "260.938 W"
       },
       {
         "name": "TEAM 2",
@@ -175,98 +171,102 @@
         "value": "300.384 W"
       },
       {
-        "name": "TEAM 17",
-        "value": "307.169 W"
-      },
-      {
         "name": "TEAM 14",
         "value": "357.947 W"
       },
       {
+        "name": "TEAM 17",
+        "value": "404.379 W"
+      },
+      {
         "name": "TEAM 15",
         "value": "522.538 W"
+      },
+      {
+        "name": "TEAM 11",
+        "value": "1139.314 W"
       }
     ],
     "mean": [
       {
         "name": "TEAM 19",
-        "value": "21.030108614232212 W"
+        "value": "14.503571428571432 W"
       },
       {
         "name": "TEAM 7",
-        "value": "34.53326356589145 W"
+        "value": "25.726315565031975 W"
       },
       {
         "name": "TEAM 8",
-        "value": "41.018970338983024 W"
-      },
-      {
-        "name": "TEAM 17",
-        "value": "45.34392720306514 W"
-      },
-      {
-        "name": "TEAM 1",
-        "value": "46.57764999999999 W"
+        "value": "31.423448577680496 W"
       },
       {
         "name": "TEAM 9",
-        "value": "47.83347435897438 W"
+        "value": "42.71994186046512 W"
       },
       {
         "name": "TEAM 20 *",
-        "value": "51.52750197628459 W"
+        "value": "42.730668085106444 W"
+      },
+      {
+        "name": "TEAM 1",
+        "value": "45.415928721173984 W"
       },
       {
         "name": "TEAM 10",
-        "value": "56.69169083969468 W"
+        "value": "49.402771784232414 W"
       },
       {
         "name": "TEAM 3",
-        "value": "59.976996108949415 W"
+        "value": "52.29521656050954 W"
+      },
+      {
+        "name": "TEAM 17",
+        "value": "53.281849484536096 W"
       },
       {
         "name": "TEAM 18",
-        "value": "68.67302298850579 W"
+        "value": "61.99212096774194 W"
       },
       {
         "name": "TEAM 5",
-        "value": "77.58124603174596 W"
+        "value": "65.60344325481798 W"
       },
       {
         "name": "TEAM 6",
-        "value": "81.49914716981132 W"
+        "value": "73.7498983050847 W"
       },
       {
         "name": "TEAM 12",
-        "value": "97.97587698412701 W"
-      },
-      {
-        "name": "TEAM 11",
-        "value": "100.68528915662651 W"
+        "value": "82.44107805907171 W"
       },
       {
         "name": "TEAM 4",
-        "value": "107.9836961538461 W"
+        "value": "96.971960251046 W"
+      },
+      {
+        "name": "TEAM 11",
+        "value": "97.64226521739134 W"
       },
       {
         "name": "TEAM 16",
-        "value": "109.73610276679844 W"
+        "value": "98.55229004329003 W"
       },
       {
         "name": "TEAM 13",
-        "value": "119.2816846153846 W"
+        "value": "110.96678085106386 W"
       },
       {
         "name": "TEAM 14",
-        "value": "141.94080399999996 W"
+        "value": "116.40380672268903 W"
       },
       {
         "name": "TEAM 2",
-        "value": "174.0501048387097 W"
+        "value": "141.05473763440872 W"
       },
       {
         "name": "TEAM 15",
-        "value": "251.6387120622569 W"
+        "value": "215.30952941176483 W"
       }
     ]
   }
